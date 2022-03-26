@@ -1,0 +1,8 @@
+.nav-items{
+    border: 1px solid grey;
+    color: blueviolet;
+    padding: 10px;
+}
+.nav-items:hover{
+    background-color: rgb(204, 204, 238);
+}

@@ -1,0 +1,9 @@
+.product-input{
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+}
+
+.product-input > .first-input{
+    padding-right: 30px;
+}

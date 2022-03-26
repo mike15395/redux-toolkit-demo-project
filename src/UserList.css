@@ -1,0 +1,14 @@
+.list-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    
+}
+.list{
+    display: flex;
+    box-shadow: 0px 1px 8px gray;
+    margin: 10px;
+}
+.list>h4{
+   padding: 10px;
+}

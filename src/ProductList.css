@@ -1,0 +1,21 @@
+.product-table{
+   
+     margin-top: 30px;
+  
+}
+.product-list{
+    display: flex;
+    justify-content: center;
+}
+table,th,td{
+     border: 2px solid black;
+     border-collapse: collapse;
+     padding: 15px;
+     
+}
+td{
+    background-color: rgb(209, 168, 246);
+}
+table{
+    border-spacing: 20px;
+}
